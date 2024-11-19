@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stock_chart_react/static/css/main.ccbf6867.css",
+    "main.js": "/stock_chart_react/static/js/main.b9990f1a.js",
+    "static/js/453.cf7fded4.chunk.js": "/stock_chart_react/static/js/453.cf7fded4.chunk.js",
+    "index.html": "/stock_chart_react/index.html",
+    "main.ccbf6867.css.map": "/stock_chart_react/static/css/main.ccbf6867.css.map",
+    "main.b9990f1a.js.map": "/stock_chart_react/static/js/main.b9990f1a.js.map",
+    "453.cf7fded4.chunk.js.map": "/stock_chart_react/static/js/453.cf7fded4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccbf6867.css",
+    "static/js/main.b9990f1a.js"
+  ]
+}
