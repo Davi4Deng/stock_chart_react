@@ -1,0 +1,27 @@
+.child-container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .controls {
+    margin-top: 20px;
+  }
+  
+  .controls div {
+    margin-bottom: 10px;
+  }
+  
+  .chart-container {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  input[type="radio"] {
+    margin-left: 10px;
+  }
+  
+  select {
+    margin-left: 10px;
+  }
+  
